@@ -1,4 +1,4 @@
-I am currently a student at the University of Manchester studying Computer Science with Mathematics.
+Hi there, I'm James!
 
 <!---
 JamesHarrison4706/JamesHarrison4706 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
